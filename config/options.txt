@@ -1,5 +1,5 @@
 [Credentials]
-Token = TOKEN HERE
+Token = NDQ2ODM4MDE1MTEzOTUzMjg5.Dd-12g.l4s7IkHRZxx656QbJua0UTWzFSU
 
 [Permissions]
 OwnerID = 77511942717046784
